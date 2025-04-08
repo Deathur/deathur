@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Matthieu Baelen</h1>
+<h3 align="center">A passionnate developper in training !</h3>
 
-<!--
-**Deathur/deathur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Web Dev & Mobile Dev**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://github.com/Deathur?tab=repositories](https://github.com/Deathur?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **matthieu.baelen@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/matthieu baelen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthieu baelen" height="30" width="40" /></a>
+</p>
